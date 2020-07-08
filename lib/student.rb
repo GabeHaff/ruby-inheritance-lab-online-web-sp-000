@@ -4,9 +4,8 @@ def initialize
   @knowledge = []
 end 
 
-def learn(KNOWLEDGE.sample.to_s)
-@knowledge << KNOWLEDGE.sample.to_s
+def learn(KNOWLEDGE.sample)
+@knowledge << KNOWLEDGE.sample
 end
 
-end 
 end 
