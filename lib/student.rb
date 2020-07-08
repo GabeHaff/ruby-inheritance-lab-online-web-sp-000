@@ -9,3 +9,4 @@ def learn(KNOWLEDGE.sample.to_s)
 end
 
 end 
+end 
